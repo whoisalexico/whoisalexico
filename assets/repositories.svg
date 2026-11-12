@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-label="Repositories">
+  <rect x=".5" y=".5" width="239" height="43" rx="5" fill="#241429" stroke="#6d315e"/>
+  <path d="M0 13V31" stroke="#f273d2" stroke-width="2"/>
+  <text x="120" y="27" text-anchor="middle" fill="#efa2dc" font-family="Consolas,monospace" font-size="13" letter-spacing="2">REPOSITORIES ↗</text>
+</svg>

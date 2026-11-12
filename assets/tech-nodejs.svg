@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="34" viewBox="0 0 110 34" role="img" aria-label="Node.js">
+<rect x=".5" y=".5" width="109" height="33" rx="4" fill="#121e28" stroke="#284b59"/>
+<path d="M.5 11V23" stroke="#65e5f2" stroke-width="2"/>
+<text x="55" y="22" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#9de4ee">Node.js</text>
+</svg>

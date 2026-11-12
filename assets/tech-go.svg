@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="34" viewBox="0 0 64 34" role="img" aria-label="Go">
+<rect x=".5" y=".5" width="63" height="33" rx="4" fill="#241429" stroke="#58304f"/>
+<path d="M.5 11V23" stroke="#f273d2" stroke-width="2"/>
+<text x="32" y="22" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#efa2dc">Go</text>
+</svg>
