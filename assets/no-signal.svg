@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
   <title id="title">whoisalexico — BREAK THE PATTERN.</title>
   <desc id="desc">No Signal: pink and cyan glitch typography on a dark purple background.</desc>
   <defs>
@@ -6,32 +6,32 @@
     <linearGradient id="fade"><stop stop-color="#110c18"/><stop offset="1" stop-color="#110c18" stop-opacity="0"/></linearGradient>
     <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect y="6" width="8" height="2" fill="#000" opacity=".16"/></pattern>
     <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#b959b6" stroke-opacity=".05"/></pattern>
-    <clipPath id="slice1"><rect x="0" y="242" width="1000" height="6"/><rect x="0" y="355" width="1000" height="5"/></clipPath>
-    <clipPath id="slice2"><rect x="0" y="455" width="1000" height="9"/></clipPath>
+    <clipPath id="slice1"><rect x="0" y="163" width="1000" height="5"/></clipPath>
+    <clipPath id="slice2"><rect x="0" y="267" width="1000" height="7"/></clipPath>
   </defs>
-  <rect width="1400" height="640" rx="12" fill="#110c18"/>
-  <rect width="1400" height="640" rx="12" fill="url(#bloom)"/>
-  <rect width="1400" height="640" rx="12" fill="url(#grid)"/>
+  <rect width="1400" height="420" rx="12" fill="#110c18"/>
+  <rect width="1400" height="420" rx="12" fill="url(#bloom)"/>
+  <rect width="1400" height="420" rx="12" fill="url(#grid)"/>
   <g font-family="Consolas, 'Liberation Mono', monospace">
-    <text x="1070" y="475" fill="#44204e" font-size="525" font-weight="700" text-anchor="middle" transform="rotate(-12 1070 350)">#</text>
-    <rect x="1135" y="175" width="265" height="5" fill="#fa55bd" opacity=".8"/>
-    <rect x="1050" y="290" width="275" height="3" fill="#743369"/>
-    <rect x="1230" y="468" width="170" height="4" fill="#65e5f2" opacity=".7"/>
-    <rect x="0" y="365" width="29" height="3" fill="#65e5f2"/>
-    <text x="62" y="63" fill="#ec8fd2" font-size="23" letter-spacing="3">WHOISALEXICO.EXE / PERSONAL FREQUENCY</text>
-    <g font-size="140" font-weight="700" letter-spacing="-9">
-      <g fill="#62e7f4" transform="translate(-4 0)"><text x="62" y="239">BREAK</text><text x="62" y="365">THE</text></g>
-      <g fill="#fa39a6" transform="translate(5 0)"><text x="62" y="239">BREAK</text><text x="62" y="365">THE</text></g>
-      <g fill="#eee2f4"><text x="62" y="239">BREAK</text><text x="62" y="365">THE</text></g>
-      <text x="66" y="494" fill="#68e6ed">PATTERN.</text>
-      <text x="58" y="494" fill="#642876">PATTERN.</text>
-      <text x="62" y="494" fill="#f273d2">PATTERN.</text>
-      <g clip-path="url(#slice1)" fill="#8df3f0" transform="translate(10 0)"><text x="62" y="239">BREAK</text><text x="62" y="365">THE</text></g>
-      <g clip-path="url(#slice2)" fill="#ffc2ed" transform="translate(-12 0)"><text x="62" y="494">PATTERN.</text></g>
+    <text x="1110" y="325" fill="#44204e" font-size="370" font-weight="700" text-anchor="middle" transform="rotate(-12 1110 230)">#</text>
+    <rect x="1170" y="110" width="230" height="5" fill="#fa55bd" opacity=".8"/>
+    <rect x="1050" y="218" width="275" height="3" fill="#743369"/>
+    <rect x="1230" y="315" width="170" height="4" fill="#65e5f2" opacity=".7"/>
+    <rect x="0" y="239" width="29" height="3" fill="#65e5f2"/>
+    <text x="62" y="52" fill="#ec8fd2" font-size="23" letter-spacing="3">WHOISALEXICO.EXE / PERSONAL FREQUENCY</text>
+    <g font-size="132" font-weight="700" letter-spacing="-8">
+      <g fill="#62e7f4" transform="translate(-4 0)"><text x="62" y="181">BREAK THE</text></g>
+      <g fill="#fa39a6" transform="translate(5 0)"><text x="62" y="181">BREAK THE</text></g>
+      <g fill="#eee2f4"><text x="62" y="181">BREAK THE</text></g>
+      <text x="66" y="302" fill="#68e6ed">PATTERN.</text>
+      <text x="58" y="302" fill="#642876">PATTERN.</text>
+      <text x="62" y="302" fill="#f273d2">PATTERN.</text>
+      <g clip-path="url(#slice1)" fill="#8df3f0" transform="translate(10 0)"><text x="62" y="181">BREAK THE</text></g>
+      <g clip-path="url(#slice2)" fill="#ffc2ed" transform="translate(-12 0)"><text x="62" y="302">PATTERN.</text></g>
     </g>
-    <rect x="62" y="549" width="1276" height="1" fill="#8d407f" opacity=".38"/>
-    <text x="62" y="594" fill="#ba87b6" font-size="22" letter-spacing="2">A LITTLE CHAOS. A LOT OF CURIOSITY.</text>
-    <text x="1338" y="594" fill="#c58aba" font-size="20" letter-spacing="2" text-anchor="end">[ NO SIGNAL ]</text>
+    <rect x="62" y="344" width="1276" height="1" fill="#8d407f" opacity=".38"/>
+    <text x="62" y="386" fill="#ba87b6" font-size="22" letter-spacing="2">A LITTLE CHAOS. A LOT OF CURIOSITY.</text>
+    <text x="1338" y="386" fill="#c58aba" font-size="20" letter-spacing="2" text-anchor="end">[ NO SIGNAL ]</text>
   </g>
-  <rect width="1400" height="640" rx="12" fill="url(#scan)" pointer-events="none"/>
+  <rect width="1400" height="420" rx="12" fill="url(#scan)" pointer-events="none"/>
 </svg>

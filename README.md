@@ -41,8 +41,3 @@
   <a href="https://github.com/whoisalexico?tab=stars"><img src="./assets/stars.svg" alt="Explore starred projects" height="34" /></a>
 </p>
 
-<br />
-
-<p align="center">
-  <samp>BREAK THE PATTERN.</samp>
-</p>
