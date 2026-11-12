@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/no-signal.svg?v=2" alt="whoisalexico — Break the pattern. No Signal." width="100%" />
+  <img src="./assets/no-signal-compact.svg" alt="whoisalexico — Break the pattern. No Signal." width="100%" />
 </p>
 
 <h3 align="center">Alexey / @whoisalexico</h3>
