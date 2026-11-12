@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/no-signal.svg" alt="whoisalexico — Break the pattern. No Signal." width="100%" />
+  <img src="./assets/no-signal.svg?v=2" alt="whoisalexico — Break the pattern. No Signal." width="100%" />
 </p>
 
 <h3 align="center">Alexey / @whoisalexico</h3>
@@ -40,4 +40,3 @@
   &nbsp;
   <a href="https://github.com/whoisalexico?tab=stars"><img src="./assets/stars.svg" alt="Explore starred projects" height="34" /></a>
 </p>
-
